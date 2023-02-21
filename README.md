@@ -1,3 +1,10 @@
-# Python_BDD_calculator
+# QA Zadanie 7
 
-<h5>QA Zadanie 7</h5>
+Zadanie zostało zrobione za pomocą języka python i biblioteki behave
+
+Kroki, które nalezy podjąć aby odpalić test:
+
+1. zalecane jest utworzenie środowiska wirtualnego za pomocą komendy
+```
+python -m venv env
+```
