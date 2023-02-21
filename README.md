@@ -19,3 +19,5 @@ pip install behave
 ```
 behave
 ```
+
+Wynik powinien być zblożony do tego w screenie rezultat.png
