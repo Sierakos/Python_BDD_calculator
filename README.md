@@ -10,12 +10,22 @@ python -m venv env
 call env/scripts/activate
 ```
 
-2. instalacja biblioteki behave:
+2. Sklonowanie repozytorium
+```
+git clone https://github.com/Sierakos/Python_BDD_calculator.git
+```
+
+3. Wejść w plik z kodem
+```
+cd Python_BDD_calculator
+```
+
+4. instalacja biblioteki behave:
 ```
 pip install behave
 ```
 
-3. test można włączyć za pomocą komendy:
+5. test można włączyć za pomocą komendy:
 ```
 behave
 ```
